@@ -1,0 +1,6 @@
+{
+  "bos_token": "<|endoftext|>",
+  "eos_token": "<|endoftext|>",
+  "layer_norm_epsilon": null,
+  "unk_token": "<|endoftext|>"
+}
